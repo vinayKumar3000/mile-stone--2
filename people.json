@@ -1,0 +1,90 @@
+[
+  {
+    "id": "0",
+    "Name": "Rakesh",
+    "skills": "java,c++",
+    "project": "cognizant internal",
+    "HCM": "Alex",
+    "gender": "male"
+  },
+  {
+    "id": "1",
+    "Name": "Ramesh",
+    "skills": "c,c++",
+    "project": "cognizant internal",
+    "HCM": "Alex",
+    "gender": "male"
+  },
+  {
+    "id": "2",
+    "Name": "Rahul",
+    "skills": "c,react js",
+    "project": "cognizant internal",
+    "HCM": "Alex",
+    "gender": "male"
+  },
+  {
+    "id": "3",
+    "Name": "Shravani",
+    "skills": "java,c",
+    "project": "cognizant internal",
+    "HCM": "Alex",
+    "gender": "female"
+  },
+  {
+    "id": "4",
+    "Name": "Ravi",
+    "skills": "es5,es6",
+    "project": "cognizant internal",
+    "HCM": "Alex",
+    "gender": "male"
+  },
+  {
+    "id": "5",
+    "Name": "Sofia",
+    "skills": "c,c++,java",
+    "project": "cognizant internal",
+    "HCM": "Alex",
+    "gender": "female"
+  },
+  {
+    "id": "6",
+    "Name": "Akash",
+    "skills": "node JS,c",
+    "project": "cognizant internal",
+    "HCM": "Alex",
+    "gender": "male"
+  },
+  {
+    "id": "7",
+    "Name": "Keerthana",
+    "skills": ".net,c",
+    "project": "cognizant internal",
+    "HCM": "Alex",
+    "gender": "female"
+  },
+  {
+    "id": "8",
+    "Name": "Vishnu",
+    "skills": "Kafka",
+    "project": "cognizant internal",
+    "HCM": "Alex",
+    "gender": "male"
+  },
+  {
+    "id": "9",
+    "Name": "Kavya",
+    "skills": "Spring boot",
+    "project": "cognizant internal",
+    "HCM": "Alex",
+    "gender": "female"
+  },
+  {
+    "id": "10",
+    "Name": "Kalavathi",
+    "skills": "html,css",
+    "project": "cognizant internal",
+    "HCM": "Alex",
+    "gender": "female"
+  }
+]
